@@ -1,11 +1,22 @@
-# FUTURE_DS_02
-Documentation for an interactive Power BI dashboard analyzing sales trends and revenue of a store, created using Power BI Desktop.
-Sales Analysis Dashboard
-Overview
-This repository contains a interactive Power BI dashboard for analyzing sales data.
-Dashboard Features
-1. Interactive visualizations
-2. Sales trend analysis
-3. Top-selling products
-Usage
-Open the Power BI file(.pbix) to view the dashboard
+FUTURE_DS_02
+Social Media Campaign Performance Tracker Dashboard
+
+Project Description
+A Power BI dashboard that tracks social media campaign performance across multiple platforms, providing insights into engagement, reach, and conversions.
+
+ Features
+- Campaign overview
+- Engagement metrics (likes, comments, shares)
+- Reach and impressions
+- Conversion tracking (website traffic, lead generation, sales)
+- Platform comparison
+
+ Data Sources
+- Facebook Ads API
+- Twitter Ads API
+- Instagram Insights API
+- Google Analytics
+
+ Usage
+Designed for marketing teams and social media managers to track campaign performance and optimize for better results.
+
